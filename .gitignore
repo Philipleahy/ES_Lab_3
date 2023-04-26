@@ -4,3 +4,4 @@ BUILD
 mbed
 .mbed
 compile_commands.json
+MMA7660
